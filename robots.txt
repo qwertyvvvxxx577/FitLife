@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://qwertyvvvxxx577.github.io/FitLife/sitemap.xml
-
